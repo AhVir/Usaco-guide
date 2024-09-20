@@ -1,2 +1,2 @@
 - Square Pasture -> solved
-- Bucket Brigade -> needed to see the solution because couldn't figure out 2 corner cases, like what if the rock, lake and the barn be on the same column or in the same row. these were the 2 corner cases.
+- Bucket Brigade -> [needed to see the solution because](https://github.com/AhVir/Notes/blob/main/usaco-guide-reason/Week-01.md#bucket-brigade)
