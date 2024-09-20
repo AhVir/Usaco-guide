@@ -1,2 +1,2 @@
-- Square Pasture -> solved
-- Bucket Brigade -> [needed to see the solution because](https://github.com/AhVir/Notes/blob/main/usaco-guide-reason/Week-01.md#bucket-brigade)
+- [Square Pasture](https://usaco.guide/groups/d7eYGfddXq3m2trXG2xt/post/ZkhTvlw0KgyHrqQ69LD1/problems/6Um3tsMWaQAc3WEOxliQ) -> solved
+- [Bucket Brigade](https://usaco.guide/groups/d7eYGfddXq3m2trXG2xt/post/ZkhTvlw0KgyHrqQ69LD1/problems/9DHerbuWOcpwh1Yt6BZ1) -> [needed to see the solution because](https://github.com/AhVir/Notes/blob/main/usaco-guide-reason/Week-01.md#bucket-brigade)
